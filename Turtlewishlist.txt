@@ -1,0 +1,42 @@
+title: Turtle's Mark Wishlist
+description:This is a wishlist of just the interesting Titan marks I think work well.
+
+// Melee
+//notes: These perks work towards boosting or improving melee abilities, these should be paired with consecration or something.
+dimwishlist:item=266021826&perks=1476923952,1476923955
+dimwishlist:item=266021826&perks=1476923953,1476923955
+dimwishlist:item=266021826&perks=3573490509,1476923955
+dimwishlist:item=266021826&perks=1476923952,1476923956
+dimwishlist:item=266021826&perks=1476923953,1476923956
+dimwishlist:item=266021826&perks=3573490509,1476923956
+dimwishlist:item=266021826&perks=1476923952,3573490504
+dimwishlist:item=266021826&perks=1476923953,3573490504
+dimwishlist:item=266021826&perks=3573490509,3573490504
+
+// Barricade
+//notes: These perks all mix well with deploying your barricade or giving more options to deploy your barricade.
+dimwishlist:item=266021826&perks=1476923953,1476923955
+dimwishlist:item=266021826&perks=3573490508,1476923955
+dimwishlist:item=266021826&perks=3573490510,1476923955
+dimwishlist:item=266021826&perks=1476923953,3573490506
+dimwishlist:item=266021826&perks=3573490508,3573490506
+dimwishlist:item=266021826&perks=3573490510,3573490506
+dimwishlist:item=266021826&perks=1476923953,3573490501
+dimwishlist:item=266021826&perks=3573490508,3573490501
+dimwishlist:item=266021826&perks=3573490510,3573490501
+
+// Grenade
+//notes: These Mainly are paired well with Unbreakable aspect
+dimwishlist:item=266021826&perks=1476923953,1476923955
+dimwishlist:item=266021826&perks=3573490505,1476923955
+dimwishlist:item=266021826&perks=1476923953,1476923957
+dimwishlist:item=266021826&perks=3573490505,1476923957
+dimwishlist:item=266021826&perks=1476923953,3573490500
+dimwishlist:item=266021826&perks=3573490505,3573490500
+
+// Weapons
+//notes: idk man damage boosts
+dimwishlist:item=266021826&perks=1476923954,1476923957
+dimwishlist:item=266021826&perks=3573490511,1476923957
+dimwishlist:item=266021826&perks=1476923954,3573490507
+dimwishlist:item=266021826&perks=3573490511,3573490507
